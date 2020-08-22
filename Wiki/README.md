@@ -8,6 +8,8 @@
 
 - http 框架：gin
 - DB：gorm（[文档](http://gorm.book.jasperxu.com/)）
-- systemd-run
+- Systemd man page
+  - systemd-run(1)
+  - systemd.resource-control(5)
 
 ## For Cow
